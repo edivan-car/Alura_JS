@@ -1,0 +1,1 @@
+const apresentArrow = nome => `meu nome é ${nome}.`
